@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1499433488829.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2061E601",
+    "lastKnownWriteTime" : 3833180308419998817,
+    "last_content_update" : 1499433488829,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2DBC6241",
+        "caption" : "billboard_lyrics_1964_2015",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=billboard_lyrics_1964_2015&cache_key=2DBC6241",
+        "displayedObservations" : "5100",
+        "environment" : "",
+        "object" : "billboard_lyrics_1964_2015",
+        "preview" : "0",
+        "totalObservations" : "5100",
+        "variables" : "6"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
